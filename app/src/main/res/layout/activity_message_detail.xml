@@ -11,8 +11,6 @@
         android:background="@android:color/transparent"
         android:layout_margin="20dp"
         android:foreground="?attr/selectableItemBackgroundBorderless"/>
-    <!--        android:text="返回"-->
-    <!--        android:textColor="@color/black"-->
 
     <TextView
         android:id="@+id/chat_content"
